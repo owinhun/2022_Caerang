@@ -8,7 +8,7 @@
 |김규민|빅데이터|20195116|
 
 
-## 플랫폼 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Anaconda&logoColor=white"/></a>
+## 플랫폼 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 1. PyTorch
 2. Anaconda
 
