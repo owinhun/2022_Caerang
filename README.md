@@ -8,7 +8,8 @@
 |김규민|빅데이터|20195116|
 
 
-## #EE4C2C 플랫폼
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+## 플랫폼
 1. PyTorch
 2. Anaconda
 
